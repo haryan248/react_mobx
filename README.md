@@ -2,7 +2,7 @@
 
 react에 mobx 적용해서 실습해보기
 
-# 1. Counter project with mobx
+# 1. Counter example with mobx
 
 라이브러리: mobx, mobx-react
 상태를 전역으로 관리하게 해주는 라이브러리들
