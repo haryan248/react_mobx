@@ -2,6 +2,8 @@
 
 react에 mobx 적용해서 실습해보기
 
+라이브러리 : autobind-decorator, mobx, mobx-react
+
 # 1. Counter example with mobx
 
 라이브러리: mobx, mobx-react

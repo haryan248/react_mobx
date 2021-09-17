@@ -4,9 +4,7 @@ class TodoStore {
         makeObservable(this);
     }
     @observable
-    _todo = {
-        title: "test",
-    }; // id, title, date
+    _todo = {}; // id, title, date
 
     get todo() {
         return this._todo;

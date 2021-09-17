@@ -25,7 +25,7 @@ class TodoEditFormView extends PureComponent {
                                 id="date-picker-dialog"
                                 label="Date"
                                 format="yyyy-MM-dd"
-                                value={todo && todo.title ? todo.title : null}
+                                value={todo && todo.date ? todo.date : null}
                                 onChange={(date) => onSetTodoProps("date", date.valueOf())}
                                 KeyboardButtonProps={{
                                     "aria-label": "change date",
